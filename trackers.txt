@@ -996,3 +996,7 @@ udp://fr33dom.h33t.com:3310/announce
 udp://tracker.openbittorrent.com:80/announce
 
 udp://tracker.publicbt.com:80/announce
+
+http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2960
+
+udp%3A%2F%2F9.rarbg.to%3A2770
